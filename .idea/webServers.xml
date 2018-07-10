@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6cb56bee-c56c-483c-9d4c-7f0f395431cb" name="AWS" url="http://54.233.196.176">
+        <fileTransfer host="54.233.196.176" port="21" rootFolder="/var/www/html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="aa06992e-7991-489f-bf7d-8f8891563710" name="s1live" url="http://s1live.com">
+        <fileTransfer host="s1live.com" port="22" rootFolder="/var/www/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="642531fd-5435-4857-8b65-e61a9b94070c" name="painel" url="http://167.114.117.34">
+        <fileTransfer host="167.114.117.34" port="22" rootFolder="/var/www/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

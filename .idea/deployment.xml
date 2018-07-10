@@ -2,6 +2,14 @@
 <project version="4">
   <component name="PublishConfigData">
     <serverData>
+      <paths name="AWS">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../Node" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="Server">
         <serverdata>
           <mappings>
@@ -12,6 +20,22 @@
       <paths name="ice">
         <serverdata>
           <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="painel">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../multiroom_chat" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="s1live">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../multiroom_chat" web="/" />
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>

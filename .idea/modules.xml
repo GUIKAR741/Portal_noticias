@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Node/.idea/Node.iml" filepath="$PROJECT_DIR$/../Node/.idea/Node.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/curso_node.iml" filepath="$PROJECT_DIR$/.idea/curso_node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mmorpg_got/.idea/mmorpg_got.iml" filepath="$PROJECT_DIR$/../mmorpg_got/.idea/mmorpg_got.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../s1live/.idea/s1live.iml" filepath="$PROJECT_DIR$/../s1live/.idea/s1live.iml" />
     </modules>
   </component>
 </project>

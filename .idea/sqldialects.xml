@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="remoteDeploymentFS://&lt;aa06992e-7991-489f-bf7d-8f8891563710&gt;/teste/api.php" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Downloads/cejap(1)(1).sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/portal_noticias.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../kps/Public/admin/TABELAS-MYSQL.sql" dialect="MySQL" />
   </component>
 </project>

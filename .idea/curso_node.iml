@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Node" />
+    <orderEntry type="module" module-name="s1live" />
+    <orderEntry type="module" module-name="mmorpg_got" />
   </component>
 </module>
