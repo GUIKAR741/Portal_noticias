@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c56df99-6453-430d-aae0-1508ccfd46ca" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,13 +54,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="noticias.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="noticias.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/noticias.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -512,7 +518,7 @@
       <workItem from="1530715291034" duration="403000" />
       <workItem from="1530718519885" duration="31693000" />
       <workItem from="1531221257452" duration="83000" />
-      <workItem from="1531221421207" duration="3855000" />
+      <workItem from="1531221421207" duration="4374000" />
     </task>
     <task id="LOCAL-00001" summary="V1.0">
       <created>1511014383626</created>
@@ -560,7 +566,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="642480000" />
+    <option name="totallyTimeSpent" value="642999000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -573,7 +579,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3729373" />
@@ -582,10 +587,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
       <window_info anchor="right" id="Mongo Explorer" order="2" sideWeight="0.49669966" weight="0.32980332" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" visible="true" weight="0.3729373" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" visible="true" weight="0.3729373" />
       <window_info anchor="right" x="464" y="61" width="437" height="606" id="Remote Host" order="0" weight="0.33055976" />
       <window_info anchor="bottom" id="TypeScript" order="8" weight="0.32838285" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.2677761" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.2677761" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="1" sideWeight="0.4950495" weight="0.33055976" />
       <window_info id="Structure" order="1" sideWeight="0.50165015" side_tool="true" weight="0.27382752" />
@@ -674,7 +679,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/box01.jpg" />
     <entry file="file://$PROJECT_DIR$/../API/Nova pasta/box.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -962,6 +966,9 @@
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
