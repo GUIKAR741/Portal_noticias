@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c56df99-6453-430d-aae0-1508ccfd46ca" name="Default" comment="" />
+    <list default="true" id="7c56df99-6453-430d-aae0-1508ccfd46ca" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +52,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="noticias.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/noticias.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="&lt;aa06992e-7991-489f-bf7d-8f8891563710&gt;/teste/api.php" />
         <option value="$PROJECT_DIR$/../API/composer.json" />
         <option value="$PROJECT_DIR$/../API/crowler.php" />
         <option value="$PROJECT_DIR$/../scraper/composer.json" />
@@ -158,6 +169,7 @@
         <option value="$PROJECT_DIR$/../mmorpg_got/app/routes/cadastro.js" />
         <option value="$PROJECT_DIR$/../mmorpg_got/app/views/cadastro.ejs" />
         <option value="$PROJECT_DIR$/../mmorpg_got/app/controllers/cadastro.js" />
+        <option value="$PROJECT_DIR$/noticias.js" />
       </list>
     </option>
   </component>
@@ -294,7 +306,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="34" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -364,7 +376,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -500,7 +512,7 @@
       <workItem from="1530715291034" duration="403000" />
       <workItem from="1530718519885" duration="31693000" />
       <workItem from="1531221257452" duration="83000" />
-      <workItem from="1531221421207" duration="3161000" />
+      <workItem from="1531221421207" duration="3855000" />
     </task>
     <task id="LOCAL-00001" summary="V1.0">
       <created>1511014383626</created>
@@ -516,11 +528,39 @@
       <option name="project" value="LOCAL" />
       <updated>1531226587579</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="V1.2">
+      <created>1531226743670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531226743670</updated>
+    </task>
+    <task id="LOCAL-00004" summary="V1.2">
+      <created>1531226783810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531226783810</updated>
+    </task>
+    <task id="LOCAL-00005" summary="V1.2">
+      <created>1531226862786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531226862786</updated>
+    </task>
+    <task id="LOCAL-00006" summary="V1.3">
+      <created>1531227109882</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531227109882</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="641786000" />
+    <option name="totallyTimeSpent" value="642480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -533,15 +573,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5060514" side_tool="true" weight="0.31683168" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3729373" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" side_tool="true" weight="0.33055976" />
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32838285" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
       <window_info anchor="right" id="Mongo Explorer" order="2" sideWeight="0.49669966" weight="0.32980332" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3729373" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" visible="true" weight="0.3729373" />
       <window_info anchor="right" x="464" y="61" width="437" height="606" id="Remote Host" order="0" weight="0.33055976" />
       <window_info anchor="bottom" id="TypeScript" order="8" weight="0.32838285" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.2677761" />
@@ -624,7 +665,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V1.0" />
     <MESSAGE value="V1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1.2" />
+    <MESSAGE value="V1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -632,7 +674,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../API/Nova pasta/TokyoGhoulRe155/box.php" />
     <entry file="file://$USER_HOME$/Desktop/box01.jpg" />
     <entry file="file://$PROJECT_DIR$/../API/Nova pasta/box.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -912,6 +953,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/noticias.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
